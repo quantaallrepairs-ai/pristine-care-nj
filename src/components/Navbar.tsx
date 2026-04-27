@@ -12,6 +12,7 @@ const Navbar = () => {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
+              <img src="/logo.png" alt="Pristine Care NJ Logo" className="h-12 w-auto mr-3" />
               <span className="text-brand-orange font-serif text-2xl font-bold">Pristine Care NJ</span>
             </Link>
           </div>
