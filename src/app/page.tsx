@@ -29,11 +29,13 @@ import Link from "next/link";
               </div>
             </div>
             <div className="hidden lg:block relative">
-               <div className="relative z-10 aspect-[4/5] bg-white rounded-[4rem] shadow-2xl overflow-hidden border-8 border-white p-2">
-                  <div className="w-full h-full bg-brand-cream flex flex-col items-center justify-center p-12 text-center">
-                    <img src="/logo.svg" alt="Pristine Care Symbol" className="w-48 h-48 mb-8 opacity-40" />
-                    <p className="text-brand-orange font-serif text-3xl italic">"Pristine quality in every interaction."</p>
-                  </div>
+               <div className="relative z-10 aspect-[4/5] rounded-[4rem] shadow-2xl overflow-hidden border-8 border-white">
+                  <img 
+                    src="https://images.unsplash.com/photo-1581578731548-c64695ce6958?auto=format&fit=crop&q=80&w=1200" 
+                    alt="Compassionate Caregiving" 
+                    className="w-full h-full object-cover"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                </div>
                {/* Floating Badge */}
                <div className="absolute -bottom-10 -left-10 bg-white p-8 rounded-3xl shadow-2xl z-20 max-w-xs border-t-4 border-brand-green">
@@ -104,6 +106,13 @@ import Link from "next/link";
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-24 items-center">
             <div className="relative">
+              <div className="aspect-square rounded-[4rem] overflow-hidden shadow-2xl border-8 border-white">
+                <img 
+                  src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&q=80&w=1200" 
+                  alt="Community Support and Interaction" 
+                  className="w-full h-full object-cover"
+                />
+              </div>
               <div className="absolute -top-12 -left-12 w-64 h-64 bg-brand-green/10 rounded-full blur-3xl"></div>
               <h2 className="text-5xl md:text-7xl font-serif leading-tight mb-12 relative z-10">
                 Pristine standards. <br/>
