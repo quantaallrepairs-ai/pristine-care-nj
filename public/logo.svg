@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern Heart-Leaf Symbol -->
+  <path d="M100 160C100 160 40 120 40 75C40 50 60 35 80 35C90 35 96 40 100 45C104 40 110 35 120 35C140 35 160 50 160 75C160 120 100 160 100 160Z" fill="white"/>
+  
+  <!-- Left Side: Leaf/Growth (Green) -->
+  <path d="M100 160C100 160 40 120 40 75C40 50 60 35 80 35C90 35 96 40 100 45V160Z" fill="#5E8C31"/>
+  
+  <!-- Right Side: Warmth/Care (Orange-Red) -->
+  <path d="M100 160C100 160 160 120 160 75C160 50 140 35 120 35C110 35 104 40 100 45V160Z" fill="#D94126"/>
+  
+  <!-- Center Highlight (Modern minimalist house window hint) -->
+  <rect x="92" y="75" width="16" height="16" rx="2" fill="#FAF9F6" fill-opacity="0.3"/>
+</svg>
