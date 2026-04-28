@@ -27,7 +27,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-2">Location</h3>
-                  <p className="text-2xl font-serif text-gray-900">Serving all of New Jersey</p>
+                  <p className="text-2xl font-serif text-gray-900">20 Begonia Ct, <br/>Sayreville, NJ 08872</p>
                 </div>
               </div>
             </div>
