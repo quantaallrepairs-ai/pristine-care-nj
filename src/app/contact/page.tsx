@@ -19,11 +19,11 @@ export default function ContactPage() {
               <div className="space-y-8">
                 <div>
                   <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-2">Call Us</h3>
-                  <p className="text-2xl font-serif text-gray-900">(555) 123-4567</p>
+                  <p className="text-2xl font-serif text-gray-900">908-414-9880</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-2">Email Us</h3>
-                  <p className="text-2xl font-serif text-gray-900">info@pristinecarenj.com</p>
+                  <p className="text-2xl font-serif text-gray-900">zedzed@pristinecarenj.com</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-2">Location</h3>

@@ -1,5 +1,8 @@
 import Link from "next/link";
 
+export default function Home() {
+  return (
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative bg-brand-cream py-20 lg:py-32 overflow-hidden">
         {/* Abstract background elements */}
