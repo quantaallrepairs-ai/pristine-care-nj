@@ -34,7 +34,7 @@ export default function Home() {
             <div className="hidden lg:block relative">
                <div className="relative z-10 aspect-[4/5] rounded-[4rem] shadow-2xl overflow-hidden border-8 border-white">
                   <img 
-                    src="https://images.unsplash.com/photo-1542810634-71277d95dcbb?auto=format&fit=crop&q=80&w=1200" 
+                    src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&q=80&w=1200" 
                     alt="Compassionate Caregiving" 
                     className="w-full h-full object-cover"
                   />
