@@ -44,7 +44,7 @@ export default function Home() {
                <div className="absolute -bottom-10 -left-10 bg-white p-8 rounded-3xl shadow-2xl z-20 max-w-xs border-t-4 border-brand-green">
                   <div className="flex items-center space-x-4 mb-4">
                     <div className="flex -space-x-2">
-                      {[1,2,3,4].map(i => <div key={i} className="w-10 h-10 rounded-full bg-gray-200 border-2 border-white"></div>)}
+                      {['👩‍⚕️','👨‍🦽','🤝','👨‍👩‍👦'].map((emoji, i) => <div key={i} className="w-10 h-10 rounded-full bg-brand-green/10 border-2 border-white flex items-center justify-center text-lg">{emoji}</div>)}
                     </div>
                     <p className="text-gray-900 font-bold text-lg leading-tight">50+ Families Served</p>
                   </div>
