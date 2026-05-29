@@ -141,7 +141,7 @@ export default function Home() {
                <div className="flex items-center space-x-6">
                  <div className="w-16 h-16 rounded-full bg-brand-orange/20"></div>
                  <div>
-                   <p className="font-bold text-xl">ZedZed Amaechi</p>
+                   <p className="font-bold text-xl">The Pristine Care Team</p>
                    <p className="text-gray-500 uppercase tracking-widest text-xs font-bold">CEO & Founder</p>
                  </div>
                </div>
